@@ -7,8 +7,9 @@ public class DivideByZero {
         int b = 0;
         try {
             int c = a / b;
-        } catch (ArithmeticException e) {
-            e.printStackTrace();
+        }
+        catch (ArithmeticException e) {
+            System.out.println(e);
         }
 
         System.out.println("Hello!");

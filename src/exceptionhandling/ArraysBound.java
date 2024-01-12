@@ -14,7 +14,7 @@ public class ArraysBound {
 
 
         try{
-            System.out.println(marks[91]);
+            System.out.println(marks[2]);
         }
         catch (Exception e){
             System.out.println("Error found");
