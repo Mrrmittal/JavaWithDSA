@@ -1,0 +1,13 @@
+Que: Java Vs C++?
+Sol: Java : Java is platform independent language. Because .java (source code) firstly convert into the byte code. that
+            byte code can not run directly into the system. This byte needs JVM to compile and interpreter(Line by Line)
+            to compile the code and convert into the machine code.
+
+            So, In Java JVM help to make Java platform Independent language. But JVM is platform dependent.
+
+      C++ : In Cpp compiler compile code directly into the machine code. So, there is no scope to generate byte code.
+            that's does not help CPP to make platform independent language.
+
+Que: What is Platform independent?
+Sol: Platform independent mean byte code (Compile code) make more friendly with all operating system like Window , Linux
+     Unix and all.
