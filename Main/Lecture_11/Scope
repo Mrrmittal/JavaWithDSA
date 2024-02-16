@@ -1,0 +1,16 @@
+Que: What is Scope in java?
+Sol: Scope are basically the area in function that's define where the methods and variable is accessible.
+
+     Type of Scope:
+     1. Block scope.
+     2. Method Scope.
+     3. Loop Scope.
+
+Que: What is Block Scope?
+Sol: Block scope is basically lies under a method or a class. Block scope set a local variable that can be accessible
+     only in the block. Block scope can modified the global variable. because pass by reference of variable work here.
+     Block scope support variable pass by reference.
+
+     declare as : { //Code Here }
+     for eg:
+
